@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34740
     wikipedia: http://en.wikipedia.org/wiki/Luigi_Cornaro
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30660#Discourses-on-a-Sober-and-Temperate-Life--13-Wherein-is-demonstrated-by-his-own-Example-the-M_
 gutenberg_issued: '2009-12-12'
 gutenberg_type: Text
 identifiers:
